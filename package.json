@@ -1,0 +1,17 @@
+{
+  "title": "DWEC Práctica VueJS: Componentes",
+  "name": "practica_DWEC_vuejs_componentes",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "nightwatch --env default"
+  },
+  "description": "Práctica de Componentes de VueJS del módulo de Desarrollo Web en Entorno Cliente.",
+  "license": "GPL-3.0",
+  "author": "Pedro Prieto",
+  "dependencies": {},
+  "devDependencies": {
+    "chromedriver": "^109.0.0",
+    "nightwatch": "^1.7.13",
+    "serve-handler": "^6.1.3"
+  }
+}
